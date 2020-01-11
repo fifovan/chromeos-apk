@@ -5,7 +5,7 @@
       }
    },
    "arc_metadata": {
-      "apkList": [ "custom-android-release-1400197.apk" ],
+      "apkList": [ "com.tester.wpswpatester.apk" ],
       "enableExternalDirectory": false,
       "formFactor": "phone",
       "name": "__PACKAGE__",
